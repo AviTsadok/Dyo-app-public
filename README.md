@@ -1,6 +1,6 @@
-# Dyo — public pages
+# Kolmos — public pages
 
-Public website for **Dyo (דיו)**, a Hebrew newspaper app for iPhone, iPad and Mac. Served with GitHub Pages from `main` (root).
+Public website for **Kolmos (קולמוס)**, a Hebrew newspaper app for iPhone, iPad and Mac. Served with GitHub Pages from `main` (root).
 
 | Page | Hebrew (primary) | English |
 | --- | --- | --- |
